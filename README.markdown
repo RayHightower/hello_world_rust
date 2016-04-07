@@ -1,1 +1,5 @@
-Hello World in Rust\n===\nRandom [Rust](http://rust-lang.org) sandbox.
+Hello World in Rust
+===
+
+Random [Rust](http://rust-lang.org) sandbox.
+
